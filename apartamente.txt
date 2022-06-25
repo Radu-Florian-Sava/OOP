@@ -1,0 +1,5 @@
+1,Ionescu,10,inchiriat
+7,Lupu,50,vanzare
+3,Plesa,70,vanzare
+17,Marian,300,inchiriere
+2,Ionescu,100,inchiriat
